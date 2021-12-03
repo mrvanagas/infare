@@ -1,0 +1,26 @@
+[
+    {
+        "airport_name": " Jomo Kenyatta International airport, Nairobi(NBO) -> Mombasa Moi Intl airport, Mombasa (MBA)",
+        "flight_dates": " Mon 13, Dec  Mon 13, Dec ",
+        "flight_time": " 6:00am  7:10am ",
+        "price": "USD63"
+    },
+    {
+        "airport_name": " Jomo Kenyatta International airport, Nairobi(NBO) -> Mombasa Moi Intl airport, Mombasa (MBA)",
+        "flight_dates": " Mon 13, Dec  Mon 13, Dec ",
+        "flight_time": " 6:40pm  7:50pm ",
+        "price": "USD72"
+    },
+    {
+        "airport_name": " Mombasa Moi Intl airport, Mombasa(MBA) -> Jomo Kenyatta International airport, Nairobi (NBO)",
+        "flight_dates": " Mon 20, Dec  Mon 20, Dec ",
+        "flight_time": " 7:30am  8:40am ",
+        "price": "USD60"
+    },
+    {
+        "airport_name": " Mombasa Moi Intl airport, Mombasa(MBA) -> Jomo Kenyatta International airport, Nairobi (NBO)",
+        "flight_dates": " Mon 20, Dec  Mon 20, Dec ",
+        "flight_time": " 8:10pm  9:20pm ",
+        "price": "USD72"
+    }
+]

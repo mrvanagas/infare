@@ -46,11 +46,10 @@ async function scrapeData() {
       }
     })
     console.log("Finished scraping");
-    // console.log(htmlData);
     
     
   } catch (err) {
     console.error(err);
   }
 }
-
+scrapeData()
